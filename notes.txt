@@ -1,1 +1,2 @@
 Git ist ein Versionskontrollsystem
+Git speichert Snapshots des Projektes
